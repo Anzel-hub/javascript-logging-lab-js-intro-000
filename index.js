@@ -1,2 +1,1 @@
-console.error(Passop)
-console.log(It is coming);
+console.error("Watch out!")
